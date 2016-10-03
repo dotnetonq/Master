@@ -1,0 +1,6 @@
+D:\Professional\CSharpExamples\CSharpExamples\CsharpStation\bin\Debug\CsharpStation.exe.config
+D:\Professional\CSharpExamples\CSharpExamples\CsharpStation\bin\Debug\CsharpStation.exe
+D:\Professional\CSharpExamples\CSharpExamples\CsharpStation\bin\Debug\CsharpStation.pdb
+D:\Professional\CSharpExamples\CSharpExamples\CsharpStation\obj\Debug\CsharpStation.csprojResolveAssemblyReference.cache
+D:\Professional\CSharpExamples\CSharpExamples\CsharpStation\obj\Debug\CsharpStation.exe
+D:\Professional\CSharpExamples\CSharpExamples\CsharpStation\obj\Debug\CsharpStation.pdb

@@ -1,0 +1,6 @@
+D:\Professional\CSharpExamples\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.exe.config
+D:\Professional\CSharpExamples\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.exe
+D:\Professional\CSharpExamples\CSharpExamples\CSharpExamples\bin\Debug\CSharpExamples.pdb
+D:\Professional\CSharpExamples\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.csprojResolveAssemblyReference.cache
+D:\Professional\CSharpExamples\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.exe
+D:\Professional\CSharpExamples\CSharpExamples\CSharpExamples\obj\Debug\CSharpExamples.pdb

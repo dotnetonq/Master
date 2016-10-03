@@ -1,0 +1,6 @@
+D:\Professional\CSharpExamples\CSharpExamples\TestWeb\obj\Debug\TestWeb.csprojResolveAssemblyReference.cache
+D:\Professional\CSharpExamples\CSharpExamples\TestWeb\bin\TestWeb.dll.config
+D:\Professional\CSharpExamples\CSharpExamples\TestWeb\bin\TestWeb.dll
+D:\Professional\CSharpExamples\CSharpExamples\TestWeb\bin\TestWeb.pdb
+D:\Professional\CSharpExamples\CSharpExamples\TestWeb\obj\Debug\TestWeb.dll
+D:\Professional\CSharpExamples\CSharpExamples\TestWeb\obj\Debug\TestWeb.pdb
